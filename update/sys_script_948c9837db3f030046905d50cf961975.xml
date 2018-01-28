@@ -31,7 +31,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-gs.addInfoMessage('Hey there');
+gs.addInfoMessage('Hey there, this is BugFix1');
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -40,7 +40,7 @@ gs.addInfoMessage('Hey there');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>948c9837db3f030046905d50cf961975</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>MyFirstBR</sys_name>
         <sys_overrides/>
         <sys_package display_value="MySourceControl" source="x_26088_mysrcctrl">2a2558bbdbfb030046905d50cf961968</sys_package>
@@ -49,7 +49,7 @@ gs.addInfoMessage('Hey there');
         <sys_scope display_value="MySourceControl">2a2558bbdbfb030046905d50cf961968</sys_scope>
         <sys_update_name>sys_script_948c9837db3f030046905d50cf961975</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-28 05:51:38</sys_updated_on>
+        <sys_updated_on>2018-01-28 06:14:53</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
