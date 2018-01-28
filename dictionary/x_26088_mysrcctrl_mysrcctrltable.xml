@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="MySourceControlTable" max_length="40" name="x_26088_mysrcctrl_mysrcctrltable" type="collection"/>
+</database>
